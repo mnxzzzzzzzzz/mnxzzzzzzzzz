@@ -15,6 +15,10 @@
 -  Focused on **LLM/RAG pipelines**, **agentic systems**, and **computer vision**
 -  Based in Dubai, UAE, and actively exploring AI Engineering & Forward Deployed Engineering roles globally
 -  Open to collaborating on open-source AI tooling, agent orchestration frameworks, and applied ML projects
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-moiz-naveed-566b762a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:paranoidmoiz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 <p align="center">
@@ -64,9 +68,6 @@
 
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+
 
 <p align="center"><i>Currently building agentic AI systems and looking for opportunities in AI/Forward Deployed Engineering roles.</i></p>
