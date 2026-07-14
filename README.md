@@ -9,24 +9,22 @@
 
 ###  About Me
 
-- 🎓 CS (Big Data & AI) student at the **University of Wollongong in Dubai**, graduating **Aug 2026**
-- 💼 Software Engineer @ **StudentVerse** , a verified student identity & lifestyle super-app for UAE/MENA university students, powered by **Orbit AI**
-- 🏗️ Founding member of **StudentVerse**
+-  CS (Big Data & AI) student at the **University of Wollongong in Dubai**, graduating **Aug 2026**
+-  Software Engineer @ **StudentVerse** , a verified student identity & lifestyle super-app for UAE/MENA university students, powered by **Orbit AI**
+-  Founding member of **StudentVerse**
 -  Focused on **LLM/RAG pipelines**, **agentic systems**, and **computer vision**
 -  Based in Dubai, UAE, and actively exploring AI Engineering & Forward Deployed Engineering roles globally
 -  Open to collaborating on open-source AI tooling, agent orchestration frameworks, and applied ML projects
 
-
-
+---
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2E9EF7/mnxzzzzzzzzz" alt="mnxzzzzzzzzz's GitHub contribution graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnxzzzzzzzzz&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
 </p>
 
 ---
----
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages & Frameworks**
 <p>
