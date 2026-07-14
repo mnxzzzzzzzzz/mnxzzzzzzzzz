@@ -17,13 +17,9 @@
 -  Open to collaborating on open-source AI tooling, agent orchestration frameworks, and applied ML projects
 
 ---
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions.vercel.app/api?username=mnxzzzzzzzzz&theme=github-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/2E9EF7/mnxzzzzzzzzz">
-    <img src="https://ghchart.rshah.org/2E9EF7/mnxzzzzzzzzz" alt="mnxzzzzzzzzz's GitHub contribution graph" width="100%"/>
-  </picture>
+  <img src="https://github-contributions.vercel.app/api?username=mnxzzzzzzzzz&theme=github-dark#gh-dark-mode-only" alt="mnxzzzzzzzzz's GitHub contribution graph" width="100%"/>
+  <img src="https://ghchart.rshah.org/2E9EF7/mnxzzzzzzzzz#gh-light-mode-only" alt="mnxzzzzzzzzz's GitHub contribution graph" width="100%"/>
 </p>
 
 ---
