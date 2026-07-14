@@ -9,7 +9,7 @@
 ###  About Me
 
 -  CS (Big Data & AI) student at the **University of Wollongong in Dubai**, graduating **Aug 2026**
--  Software Engineer @ **StudentVerse** , a verified student identity & lifestyle super-app for UAE/MENA university students, powered by **Orbit AI**
+-  Software Engineer @ **https://studentverse.ae/** , a verified student identity & lifestyle super-app for UAE/MENA university students, powered by **Orbit AI**
 -  Founding member of **StudentVerse**
 -  Focused on **LLM/RAG pipelines**, **agentic systems**, and **computer vision**
 -  Based in Dubai, UAE, and actively exploring AI Engineering & Forward Deployed Engineering roles globally
