@@ -16,6 +16,14 @@
 -  Based in Dubai, UAE, and actively exploring AI Engineering & Forward Deployed Engineering roles globally
 -  Open to collaborating on open-source AI tooling, agent orchestration frameworks, and applied ML projects
 
+
+
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2E9EF7/mnxzzzzzzzzz" alt="mnxzzzzzzzzz's GitHub contribution graph" width="100%"/>
+</p>
+
+---
 ---
 
 ### 🛠️ Tech Stack
@@ -50,43 +58,13 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
 
-**Design Tools**
-<p>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-</p>
-
 **Other Tools**
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
----
 
-### 📅 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnxzzzzzzzzz&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mnxzzzzzzzzz&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnxzzzzzzzzz&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnxzzzzzzzzz&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-###  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
