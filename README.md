@@ -12,9 +12,9 @@
 - 🎓 CS (Big Data & AI) student at the **University of Wollongong in Dubai**, graduating **Aug 2026**
 - 💼 Software Engineer @ **StudentVerse** — a verified student identity & lifestyle super-app for UAE/MENA university students, powered by **Orbit AI**
 - 🏗️ Founding member of **StudentVerse**
-- 🧠 Focused on **LLM/RAG pipelines**, **agentic systems**, and **computer vision**
-- 🌍 Based in Dubai, UAE — actively exploring AI Engineering & Forward Deployed Engineering roles globally
-- 📫 Open to collaborating on open-source AI tooling, agent orchestration frameworks, and applied ML projects
+-  Focused on **LLM/RAG pipelines**, **agentic systems**, and **computer vision**
+-  Based in Dubai, UAE — actively exploring AI Engineering & Forward Deployed Engineering roles globally
+-  Open to collaborating on open-source AI tooling, agent orchestration frameworks, and applied ML projects
 
 ---
 
@@ -68,25 +68,25 @@
 ### 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnxzzzzzzzzz&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mnxzzzzzzzzz&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnxzzzzzzzzz&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnxzzzzzzzzz&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🤝 Let's Connect
+###  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
