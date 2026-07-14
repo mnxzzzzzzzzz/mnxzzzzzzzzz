@@ -6,27 +6,30 @@
 </p>
 
 ---
-###  About Me
 
--  CS (Big Data & AI) student at the **University of Wollongong in Dubai**, graduating **Aug 2026**
--  Software Engineer @ **https://studentverse.ae/** , a verified student identity & lifestyle super-app for UAE/MENA university students, powered by **Orbit AI**
--  Founding member of **StudentVerse**
--  Focused on **LLM/RAG pipelines**, **agentic systems**, and **computer vision**
--  Based in Dubai, UAE, and actively exploring AI Engineering & Forward Deployed Engineering roles globally
--  Open to collaborating on open-source AI tooling, agent orchestration frameworks, and applied ML projects
+### About Me
+
+- CS (Big Data & AI) student at the **University of Wollongong in Dubai**, graduating **Aug 2026**
+- Software Engineer @ **[StudentVerse](https://studentverse.ae/)**, a verified student identity & lifestyle super-app for UAE/MENA university students, powered by **Orbit AI**
+- Founding member of **StudentVerse**
+- Focused on **LLM/RAG pipelines**, **agentic systems**, and **computer vision**
+- Based in Dubai, UAE, and actively exploring AI Engineering & Forward Deployed Engineering roles globally
+- Open to collaborating on open-source AI tooling, agent orchestration frameworks, and applied ML projects
+
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-moiz-naveed-566b762a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:paranoidmoiz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
+
 <p align="center">
   <img src="https://ghchart.rshah.org/2E9EF7/mnxzzzzzzzzz#gh-light-mode-only" alt="mnxzzzzzzzzz's GitHub contribution graph" width="100%"/>
 </p>
 
 ---
 
-###  Tech Stack
+### Tech Stack
 
 **Languages & Frameworks**
 <p>
@@ -63,9 +66,5 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
-
-
-
-
 
 <p align="center"><i>Currently building agentic AI systems and looking for opportunities in AI/Forward Deployed Engineering roles.</i></p>
