@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 ###  About Me
 
 -  CS (Big Data & AI) student at the **University of Wollongong in Dubai**, graduating **Aug 2026**
@@ -22,7 +21,6 @@
 
 ---
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api?username=mnxzzzzzzzzz&theme=github-dark#gh-dark-mode-only" alt="mnxzzzzzzzzz's GitHub contribution graph" width="100%"/>
   <img src="https://ghchart.rshah.org/2E9EF7/mnxzzzzzzzzz#gh-light-mode-only" alt="mnxzzzzzzzzz's GitHub contribution graph" width="100%"/>
 </p>
 
