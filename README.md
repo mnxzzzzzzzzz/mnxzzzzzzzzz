@@ -50,30 +50,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-#### 🔎 [YouTube Intelligence Engine](#)
-An end-to-end NLP/RAG pipeline for semantic search over YouTube content.
-- Hybrid retrieval combining **BM25 + dense embeddings**, indexed in **ChromaDB**
-- **Claude LLM** integration for answer synthesis over retrieved context
-- Full evaluation harness with **MLflow** tracking (Precision@5, Recall@5, MRR)
-- Interactive **Streamlit** dashboard for querying and inspecting results
-
-#### 🦺 Construction Site Safety Monitor
-A real-time computer vision system for PPE and hazard detection on job sites.
-- **FastAPI + React** full-stack app serving live video inference
-- **Three parallel YOLOv8 models** for multi-class hazard detection, tracked with **ByteTrack**
-- Improved detection accuracy from **mAP50 0.667 → 0.801** through iterative tuning
-
-#### 📊 PulseAI360 — Customer Satisfaction Intelligence
-A four-model ML pipeline analyzing eCommerce customer service interactions.
-- **Linear Regression** for CSAT/QA score prediction from agent & response-time features
-- **Naive Bayes** for remark quality classification (TF-IDF)
-- **SVM** for satisfaction threshold classification
-- **KNN** for similarity search across historical customer interactions
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
