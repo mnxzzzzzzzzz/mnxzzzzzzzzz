@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Moiz 👋</h1>
+<h1 align="center">Hi, I'm Moiz </h1>
 <h3 align="center">Software & AI Engineer | Building at the intersection of Full-Stack, LLMs, and Computer Vision</h3>
 
 <p align="center">
@@ -17,11 +17,9 @@
 -  Open to collaborating on open-source AI tooling, agent orchestration frameworks, and applied ML projects
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnxzzzzzzzzz&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
+  <img src="https://github-contributions.vercel.app/api?username=mnxzzzzzzzzz&theme=github-dark" alt="mnxzzzzzzzzz's GitHub contribution graph" width="100%"/>
 </p>
-
 ---
 
 ###  Tech Stack
