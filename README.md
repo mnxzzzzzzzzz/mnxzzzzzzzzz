@@ -19,7 +19,11 @@
 ---
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2E9EF7/mnxzzzzzzzzz" alt="mnxzzzzzzzzz's GitHub contribution graph" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions.vercel.app/api?username=mnxzzzzzzzzz&theme=github-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/2E9EF7/mnxzzzzzzzzz">
+    <img src="https://ghchart.rshah.org/2E9EF7/mnxzzzzzzzzz" alt="mnxzzzzzzzzz's GitHub contribution graph" width="100%"/>
+  </picture>
 </p>
 
 ---
